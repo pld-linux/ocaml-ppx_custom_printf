@@ -49,7 +49,7 @@ używających biblioteki ppx_custom_printf.
 
 %package devel
 Summary:	Printf-style format-strings for user-defined string conversion - development part
-Summary(pl.UTF-8):	Łańcuchy formatujące w stylu printf do konwersji zdefiniowanych przez użytkownika - cześć programistyczna
+Summary(pl.UTF-8):	Łańcuchy formatujące w stylu printf do konwersji zdefiniowanych przez użytkownika - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
